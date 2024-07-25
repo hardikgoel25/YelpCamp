@@ -88,7 +88,7 @@ app.use(
                 "blob:",
                 "data:",
                 "https://res.cloudinary.com/dicad9ny2/", //SHOULD MATCH YOUR CLOUDINARY ACCOUNT! 
-                "https://images.unsplash.com",
+                "https://images.unsplash.com/",
                 "https://api.maptiler.com/",
             ],
             fontSrc: ["'self'", ...fontSrcUrls],
